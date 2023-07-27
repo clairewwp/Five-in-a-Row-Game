@@ -1,0 +1,30 @@
+﻿  Hi, Welcome to the "Gomoku" instruction:
+ 
+  Gomoku (Five in a Row) -  is a strategy board game with two players. 
+
+  It is played with black and white stones on a 15×15 Go board. 
+
+  In this game, 'x' = black stone, 'o'= white.
+
+  Players placing a stone of their color on an empty intersection and "Black" plays first. 
+
+  The winner is the player who form an unbroken chain of five first,
+
+  no matter it is  horizontally, vertically, or diagonally. 
+
+		
+	         Unbroken Chain examples:
+
+
+                    unbroken                    broken
+ 
+               0  |x|_|_|_|_|_|              0  |x|_|_|_|_|_|	 
+               1  |_|x|_|_|_|_|              1  |_|x|_|_|_|_|
+               2  |_|_|x|_|_|_|              2  |_|_|x|_|_|_|
+               3  |_|_|_|x|_|_|              3  |_|_|_|x|_|_|  
+               4  |_|_|_|_|x|_|              4  |_|_|_|_|o|_| 
+               5  |_|_|_|_|_|_|              5  |_|_|_|_|_|x|	 
+                   0 1 2 3 4 5                  0 1 2 3 4 5 
+
+
+		Have fun with the game. :D
